@@ -1,0 +1,24 @@
+{
+  "name": "coordinate-point",
+  "label": "Coordinate Point",
+  "type": "widget",
+  "version": "6.0.0",
+  "exbVersion": "1.21.0",
+  "author": "Custom Widget",
+  "license": "MIT",
+  "description": "Add, edit and manage WGS84 coordinate points on a map, with pick-on-map, CSV import/export, label styling and Map Context Menu hand-off.",
+  "defaultSize": {
+    "width": 400,
+    "height": 560
+  },
+  "dependency": [
+    "jimu-arcgis"
+  ],
+  "settingDependency": [
+    "jimu-arcgis"
+  ],
+  "properties": {},
+  "translatedLocales": [
+    "en"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "showLabels": true,
+  "labelSize": 12,
+  "labelColor": "#000000",
+  "labelFont": "Arial",
+  "labelBold": true,
+  "labelPosition": "right",
+  "labelOffset": 12,
+  "pointSize": 10,
+  "pointColor": "#007ac2",
+  "pointOutlineColor": "#ffffff",
+  "pointOutlineWidth": 2,
+  "decimalPlaces": 6
+}
